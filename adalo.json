@@ -1,0 +1,12 @@
+{
+  "displayName": "twilio integration",
+  "components": [
+    {
+      "name": "Twilio",
+      "manifest": "./src/components/Twilio/manifest.json"
+    }
+  ],
+  "author": "",
+  "description": "",
+  "logo": "./example-logo.png"
+}
